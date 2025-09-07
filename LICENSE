@@ -1,0 +1,54 @@
+# Quantum Encoding Ltd. - Technology Demonstration and Commercialization License v1.0
+
+## Preamble: The Spirit of the License
+
+This repository and the data contained within represent the public record of a significant achievement in high-performance computing by Quantum Encoding Ltd. The performance metrics and architectural concepts ("The Technology") documented here are the result of extensive research, development, and intellectual effort.
+
+This is not an open-source project. The purpose of this repository is to serve as a public demonstration of a proprietary, battle-tested, and commercially valuable technology.
+
+## Terms and Conditions
+
+### 1. Grant of License
+
+Quantum Encoding Ltd. grants you a non-exclusive, worldwide, royalty-free license to:
+*   **View and Analyze:** Access, view, and analyze the performance data, graphs, and architectural descriptions contained within this repository for the purposes of evaluation and internal research.
+*   **Cite and Attribute:** Reference, cite, and discuss the publicly available data from this repository in articles, presentations, and analyses, provided that clear and prominent attribution is given to "Quantum Encoding Ltd." and a link to this repository is included.
+
+### 2. Prohibitions and Limitations
+
+Under this license, you are expressly **prohibited** from:
+*   **Implementation:** Using The Technology, in whole or in part, to create a derivative or competing work without a separate, explicit commercial license from Quantum Encoding Ltd.
+*   **Reverse Engineering:** Attempting to reverse-engineer, decompile, or otherwise deduce the specific source code or proprietary implementation details of The Technology from the provided data.
+*   **Misrepresentation:** Presenting this data as your own work or removing the attribution to Quantum Encoding Ltd.
+
+### 3. Intellectual Property
+
+All intellectual property rights, including but not limited to patents, copyrights, and trade secrets related to The Technology and its underlying source code, are the sole and exclusive property of Quantum Encoding Ltd. and its founder, Richard Tune.
+
+The publication of this performance data does not constitute a waiver of any intellectual property rights.
+
+### 4. Commercial Licensing and Partnership Inquiries
+
+The Technology demonstrated in this repository is available for commercial licensing, strategic partnership, and acquisition. We believe this architecture represents a paradigm shift in software-defined networking and high-performance data processing, capable of unlocking unprecedented value from modern cloud and bare-metal infrastructure.
+
+We are actively seeking to partner with ambitious, forward-thinking organizations who recognize the strategic value of operating at the absolute limits of performance.
+
+**We are particularly interested in collaborations with:**
+*   **Cloud Hyperscalers:** Seeking to showcase the ultimate capabilities of their hardware and offer new classes of high-performance services.
+*   **High-Frequency Trading Firms:** Requiring the lowest possible latency for market data ingestion and order execution.
+*   **Cybersecurity and DDoS Mitigation Providers:** Needing to absorb and filter network traffic at a planetary scale.
+*   **Telecommunications and Media Streaming Companies:** Building the next generation of high-throughput, low-latency infrastructure.
+
+**To initiate a confidential discussion regarding a commercial partnership, please contact:**
+
+Richard Tune  
+Founder & Architect, Quantum Encoding Ltd.  
+rich@quantumencoding.io  
+https://quantumencoding.io
+
+### 5. Disclaimer of Warranty
+
+The data in this repository is provided "AS IS," without warranty of any kind, express or implied. The performance metrics were achieved under specific test conditions and are not a guarantee of future performance in all environments.
+
+---
+**This license is a declaration of our victory and an invitation to build the future. We look forward to hearing from you.**
