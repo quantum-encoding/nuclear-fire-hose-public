@@ -20,20 +20,30 @@ A public record of a software-defined networking application achieving performan
 
 ### THE EVIDENCE
 
-**Figure 1: Sustained CPU Utilization During Multi-Gigabyte Ingestion.**
-*Note the sustained plateau at ~60% and the peak at ~95%, demonstrating the system meeting a massive demand without failure.*
+**Figure 1: AWS c6in.metal Instance Configuration**
+*The hardware beast: 128 vCPUs, 251GB RAM, 200 Gbps network.*
 
-![CPU Utilization Graph](link_to_your_cpu_graph_image.png)
+![Machine Type](machine-type.png)
 
-**Figure 2: Sustained Multi-Gigabyte Throughput (Network In).**
+**Figure 2: Sustained CPU Utilization During Multi-Gigabyte Ingestion**
+*Note the sustained plateau at ~60% and the peak at ~95%, demonstrating the system meeting massive demand without failure.*
+
+![CPU Utilization Graph](cpu-utilization.png)
+
+**Figure 3: Sustained Multi-Gigabyte Throughput (Network In)**
 *Note the sustained plateau at over 140 Gigabytes per minute.*
 
-![Network In Graph](link_to_your_network_in_graph_image.png)
+![Network In Graph](network-in-latest.png)
 
-**Figure 3: Sustained Multi-Gigabit Traffic Generation (Network Out).**
+**Figure 4: Network Packets In - The 10 Billion Journey**
+*The relentless packet ingestion over the 1-hour endurance test.*
+
+![Network Packets In](network-packets-in.png)
+
+**Figure 5: Sustained Multi-Gigabit Traffic Generation (Network Out)**
 *Note the sustained generation of over 267 Gigabytes per minute, indicating the scale of the assault.*
 
-![Network Out Graph](link_to_your_network_out_graph_image.png)
+![Network Out Graph](network-out.png)
 
 ---
 
