@@ -99,3 +99,13 @@ The actual logs from our 1-hour endurance test are available in the `/logs` dire
 **10 billion packets. 2.62 million per second. For one full hour.**
 
 **THE LEGION STANDS VICTORIOUS**
+
+---
+
+### Third-Party Dependencies & Licensing
+
+This project utilizes a number of excellent open-source libraries. A full list of these dependencies and their respective licenses is available in the `NOTICE.md` file. The core, novel architecture of the Nuclear Fire Hose is the proprietary IP of Quantum Encoding Ltd.
+
+---
+
+© 2025 Quantum Encoding Ltd. All Rights Reserved.
