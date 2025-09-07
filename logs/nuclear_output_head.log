@@ -1,0 +1,1000 @@
+EAL: Detected CPU lcores: 128
+EAL: Detected NUMA nodes: 2
+EAL: Detected shared linkage of DPDK
+EAL: Multi-process socket /var/run/dpdk/rte/mp_socket
+EAL: Selected IOVA mode 'VA'
+EAL: VFIO support initialized
+EAL: Using IOMMU type 1 (Type 1)
+EAL: Ignore mapping IO port bar(3)
+EAL: Probe PCI driver: net_ena (1d0f:ec20) device: 0000:09:00.0 (socket 0)
+TELEMETRY: No legacy callbacks, legacy socket not created
+=== NUCLEAR FIRE HOSE TEST ===
+[DPDK] Initializing EAL...
+[DPDK] Target device: 0000:09:00.0
+[DPDK] Available ports: 1
+[DPDK] Port 0: driver=net_ena, max_rx_q=32, max_tx_q=32
+[DPDK] Port 0 initialized successfully!
+[DPDK] Ready to receive packets on device 0000:09:00.0
+[DPDK] Polling started
+Polling for packets... Press Ctrl+C to stop
+Generate traffic to IP 172.31.38.155
+
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 32)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 64)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 96)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 128)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 160)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 192)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 224)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 256)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 288)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 320)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 352)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 384)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 416)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 448)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 480)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 512)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 544)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 576)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 608)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 640)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 672)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 704)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 736)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 768)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 800)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 832)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 864)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 896)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 928)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 960)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 992)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1024)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1056)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1088)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1120)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1152)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1184)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1216)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1248)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1280)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1312)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1344)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1376)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1408)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1440)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1472)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1504)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1536)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1568)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1600)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1632)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1664)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1696)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1728)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1760)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1792)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1824)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1856)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1888)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1920)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1952)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 1984)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2016)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2048)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2080)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2112)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2144)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2176)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2208)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2240)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2272)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2304)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2336)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2368)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2400)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2432)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2464)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2496)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2528)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2560)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2592)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2624)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2656)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2688)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2720)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2752)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2784)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2816)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2848)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2880)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2912)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2944)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 2976)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3008)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3040)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3072)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3104)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3136)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3168)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3200)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3232)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3264)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3296)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3328)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3360)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3392)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3424)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3456)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3488)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3520)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3552)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3584)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3616)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3648)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3680)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3712)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3744)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3776)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3808)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3840)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3872)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3904)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3936)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 3968)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4000)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4032)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4064)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4096)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4128)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4160)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4192)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4224)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4256)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4288)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4320)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4352)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4384)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4416)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4448)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4480)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4512)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4544)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4576)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4608)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4640)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4672)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4704)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4736)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4768)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4800)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4832)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4864)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4896)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4928)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4960)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 4992)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5024)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5056)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5088)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5120)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5152)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5184)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5216)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5248)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5280)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5312)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5344)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5376)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5408)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5440)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5472)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5504)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5536)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5568)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5600)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5632)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5664)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5696)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5728)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5760)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5792)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5824)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5856)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5888)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5920)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5952)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 5984)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6016)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6048)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6080)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6112)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6144)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6176)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6208)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6240)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6272)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6304)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6336)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6368)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6400)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6432)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6464)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6496)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6528)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6560)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6592)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6624)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6656)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6688)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6720)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6752)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6784)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6816)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6848)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6880)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6912)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6944)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 6976)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7008)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7040)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7072)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7104)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7136)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7168)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7200)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7232)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7264)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7296)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7328)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7360)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7392)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7424)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7456)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7488)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7520)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7552)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7584)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7616)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7648)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7680)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7712)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7744)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7776)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7808)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7840)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7872)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7904)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7936)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 7968)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8000)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8032)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8064)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8096)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8128)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8160)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8192)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8224)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8256)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8288)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8320)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8352)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8384)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8416)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8448)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8480)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8512)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8544)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8576)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8608)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8640)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8672)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8704)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8736)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8768)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8800)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8832)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8864)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8896)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8928)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8960)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 8992)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9024)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9056)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9088)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9120)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9152)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9184)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9216)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9248)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9280)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9312)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9344)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9376)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9408)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9440)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9472)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9504)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9536)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9568)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9600)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9632)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9664)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9696)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9728)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9760)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9792)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9824)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9856)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9888)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9920)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9952)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 9984)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10016)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10048)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10080)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10112)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10144)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10176)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10208)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10240)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10272)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10304)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10336)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10368)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10400)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10432)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10464)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10496)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10528)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10560)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10592)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10624)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10656)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10688)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10720)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10752)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10784)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10816)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10848)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10880)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10912)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10944)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 10976)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11008)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11040)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11072)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11104)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11136)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11168)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11200)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11232)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11264)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11296)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11328)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11360)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11392)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11424)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11456)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11488)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11520)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11552)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11584)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11616)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11648)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11680)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11712)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11744)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11776)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11808)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11840)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11872)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11904)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11936)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 11968)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12000)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12032)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12064)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12096)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12128)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12160)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12192)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12224)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12256)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12288)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12320)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12352)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12384)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12416)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12448)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12480)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12512)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12544)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12576)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12608)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12640)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12672)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12704)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12736)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12768)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12800)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12832)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12864)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12896)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12928)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12960)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 12992)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13024)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13056)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13088)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13120)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13152)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13184)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13216)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13248)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13280)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13312)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13344)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13376)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13408)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13440)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13472)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13504)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13536)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13568)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13600)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13632)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13664)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13696)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13728)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13760)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13792)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13824)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13856)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13888)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13920)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13952)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 13984)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14016)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14048)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14080)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14112)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14144)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14176)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14208)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14240)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14272)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14304)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14336)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14368)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14400)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14432)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14464)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14496)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14528)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14560)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14592)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14624)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14656)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14688)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14720)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14752)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14784)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14816)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14848)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14880)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14912)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14944)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 14976)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15008)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15040)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15072)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15104)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15136)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15168)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15200)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15232)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15264)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15296)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15328)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15360)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15392)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15424)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15456)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15488)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15520)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15552)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15584)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15616)
+[DPDK] Received 32 packets!
+Burst: 32 packets (Total: 15648)
+[DPDK] Received 32 packets!
